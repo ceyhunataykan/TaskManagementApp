@@ -1,0 +1,8 @@
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Entities\bin\Debug\netcoreapp3.1\CA.TaskManagement.Entities.deps.json
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Entities\bin\Debug\netcoreapp3.1\CA.TaskManagement.Entities.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Entities\bin\Debug\netcoreapp3.1\CA.TaskManagement.Entities.pdb
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Entities\obj\Debug\netcoreapp3.1\CA.TaskManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Entities\obj\Debug\netcoreapp3.1\CA.TaskManagement.Entities.AssemblyInfo.cs
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Entities\obj\Debug\netcoreapp3.1\CA.TaskManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Entities\obj\Debug\netcoreapp3.1\CA.TaskManagement.Entities.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Entities\obj\Debug\netcoreapp3.1\CA.TaskManagement.Entities.pdb

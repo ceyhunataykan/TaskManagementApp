@@ -1,0 +1,15 @@
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\bin\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.deps.json
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\bin\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.runtimeconfig.json
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\bin\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.runtimeconfig.dev.json
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\bin\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\bin\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.pdb
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\bin\Debug\netcoreapp3.1\CA.TaskManagement.Entities.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\bin\Debug\netcoreapp3.1\CA.TaskManagement.Entities.pdb
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\obj\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.csprojAssemblyReference.cache
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\obj\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\obj\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.AssemblyInfo.cs
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\obj\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\obj\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.csproj.CopyComplete
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\obj\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\obj\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.pdb
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.DataAccess\obj\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.genruntimeconfig.cache

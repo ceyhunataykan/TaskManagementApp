@@ -1,0 +1,17 @@
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.Business.deps.json
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.Business.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.Business.pdb
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.Entities.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.DataAccess.pdb
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.Entities.pdb
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\obj\Debug\netcoreapp3.1\CA.TaskManagement.Business.csprojAssemblyReference.cache
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\obj\Debug\netcoreapp3.1\CA.TaskManagement.Business.AssemblyInfoInputs.cache
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\obj\Debug\netcoreapp3.1\CA.TaskManagement.Business.AssemblyInfo.cs
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\obj\Debug\netcoreapp3.1\CA.TaskManagement.Business.csproj.CopyComplete
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\obj\Debug\netcoreapp3.1\CA.TaskManagement.Business.dll
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\obj\Debug\netcoreapp3.1\CA.TaskManagement.Business.pdb
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.Business.runtimeconfig.json
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\bin\Debug\netcoreapp3.1\CA.TaskManagement.Business.runtimeconfig.dev.json
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\obj\Debug\netcoreapp3.1\CA.TaskManagement.Business.genruntimeconfig.cache
+C:\Users\ceyhunataykan\source\repos\TaskManagementApp\CA.TaskManagement.Business\obj\Debug\netcoreapp3.1\CA.TaskManagement.Business.csproj.CoreCompileInputs.cache
